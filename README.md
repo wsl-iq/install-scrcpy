@@ -1,6 +1,6 @@
 ### how install in LINUX?
 ```
-$ git clone https://github.com/MohmmadALbaqer/install-scrcpy.git
+$ git clone https://github.com/wsl-iq/install-scrcpy.git
 $ cd install-scrcpy
 $ pip install -r requirements.txt
 $ chmod +x *
